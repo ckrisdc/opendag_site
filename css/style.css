@@ -1,0 +1,126 @@
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+    font-family: arial;
+    font-weight:bold ;
+}
+.content{
+    width: 90%;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    width: 7.5%;
+}
+header{
+    height: 50px;
+}
+header nav{
+    float: right;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.header_rooster{
+    background-color: #ffcc00;
+}
+.nav_rooster a{
+color: #014c35;
+}
+
+.header_blokken{
+    background-color: #03357c;
+}
+.nav_blokken a{
+    color: #f9aecd;
+}
+
+.header_vakken{
+    background-color: #69197c;
+}
+.nav_vakken a{
+    color: #56ddf0;
+}
+
+.header_docenten{
+    background-color: #ffcc00;
+}
+.nav_docenten a{
+    color: #0050ff;
+}
+.rooster{
+    width: 50%;
+    border-radius: 3%;
+    border: 2px solid #014c35 ;
+    margin-right: 20px;
+}
+.rooster_info{
+    width: 90%;
+    display: flex;
+    font-weight: normal;
+}
+.rooster_info p{
+    margin: 0;
+    padding: 0;
+    width: 35%;
+}
+.blokken_info{
+    width: 90%;
+    display: flex;
+    font-weight: normal;
+}
+.blokken_text{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.3;
+}
+.opleiding_overzicht{
+    width: 60%;
+    margin-left: 5%;
+    border: 1px solid black;
+    border-radius: 3%;
+}
+.vakken_text{
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+    line-height: 1;
+    width: 80%;
+}
+.vakken_text p{
+    margin: 1%;
+    padding: 0;
+}
+.vakken_intro{
+    font-weight: normal;
+}
+.vakken{
+    width: 100%;
+    margin-left: 0 auto;
+    display: flex;
+}
+.vakken img{
+    width: 50%;
+    height: 50%;
+    border:#69197c 2px solid;
+    border-radius: 3%;
+}
+.locatiepic{
+    width: 75%;
+    margin: 0 auto;
+}
+.index_text{
+    font-weight: normal;
+    line-height: 1;
+}
+.docenten{
+    width: 100%;
+    margin-left: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.docenten img{
+   width: 35%;
+}

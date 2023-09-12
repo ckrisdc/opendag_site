@@ -1,0 +1,15 @@
+geel: #ffcc00
+rood: #fc3232
+lichtblauw: #56ddf0
+donkerblauw: #03357c
+middenblauw: #0050ff
+lichtgroen: #c0ed0c
+middengroen: #2add5d
+donkergroen: #014c35
+lichtroze: #f9aecd
+middenroze: #fa339c
+donkerroze: #78034a
+donkerrood: #670305
+lichtpaars: #beb0ff
+middenpaars: #9535f9
+donkerpaars: #69197c
